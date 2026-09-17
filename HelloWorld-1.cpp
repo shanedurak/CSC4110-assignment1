@@ -1,4 +1,5 @@
-// Simple C++ program to display "Hello World" 
+// Simple C++ program to display "Hello World"
+// Shane Durak, shane.durak@gmail.com
 // Header file for input output functions 
 #include<iostream>  
   
